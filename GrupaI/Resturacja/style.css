@@ -8,6 +8,7 @@ body
 
 ul {
     font-size:  18px;
+    list-style: none;
 }
 
 a {
