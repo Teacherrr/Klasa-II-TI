@@ -7,8 +7,11 @@ body
 } 
 
 ul {
-    text-decoration: none;
     color: red;
     font-size:  18px;
+}
+
+li {
+    text-decoration: none;
 }
 
