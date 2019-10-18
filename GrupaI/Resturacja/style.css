@@ -6,3 +6,7 @@ body
     background: orange;
 } 
 
+ul {
+    text-decoration: none;
+}
+
