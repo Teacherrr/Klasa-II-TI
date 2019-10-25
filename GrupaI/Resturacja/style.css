@@ -22,8 +22,18 @@ body
 .navigation {
     position: absolute;
     left: 50%;
-    bottom: 50px;
+    top: 50%;
     transform: translateX(-50%);
+    display: flex;
+}
+
+.bar {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 6%;
+    transition: 0.4s;
 }
 
 
