@@ -6,17 +6,18 @@ body
     background: gray;
 } 
 
-ul {
-    font-size:  18px;
-    list-style: none;
+.slider {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
 }
 
-a {
-    text-decoration: none;
-    color: red;
+.navigation {
+    position: absolute;
+    left: 50%;
+    bottom: 50px;
+    transform: translateX(-50%);
 }
-
-
 
 
 
