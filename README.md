@@ -14,6 +14,6 @@ please Select an Operation:
 <input type="radio" name="opr" value="*">MULTIPLY
 <input type="radio" name="opr" value="/">DIVIDE<br>
 <input type="reset" >
-
-<input type="submit" value="Calculate"></form></body></html>
 PROJECT
+<input type="submit" value="Calculate"></form></body></html>
+
